@@ -1,9 +1,3 @@
-Project name: crud application using mern stack
-Poject author: thewebsources
-website-name: https://thewebsources.com/
-Youtube-channel: https://www.youtube.com/@thewebsources
-Video-link: https://youtu.be/3ywB6hstbfw
-
 =========================================================================
 
 steps to run crud application Project
